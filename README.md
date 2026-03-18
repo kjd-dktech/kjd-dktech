@@ -67,6 +67,10 @@ focus = [
 
 ---
 
+> 📋 **Site mayal.tech** — Les données de chaque projet (titre, slug, description, catégorie, stack, tags, URLs…) sont disponibles dans [`PROJECTS.md`](./PROJECTS.md) pour copier-coller dans le formulaire du site.
+
+---
+
 ## 🚀 Featured Projects
 
 <table>
