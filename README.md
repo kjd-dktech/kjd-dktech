@@ -146,14 +146,19 @@ Design and training of a **CNN for handwritten digit recognition** (MNIST). Full
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kjd-dktech&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false)
-
+<!--
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kjd-dktech&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kjd-dktech&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
-
 ![Streak](https://streak-stats.demolab.com/?user=kjd-dktech&theme=github-dark-blue&hide_border=true)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kjd-dktech&theme=github-compact&hide_border=true&area=true)](https://github.com/kjd-dktech)-->
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kjd-dktech&theme=github-compact&hide_border=true&area=true)](https://github.com/kjd-dktech)
+![GitHub Stats](./assets/github-stats.svg)
+
+![Top Languages](./assets/top-langs.svg)
+
+![Streak](./assets/streak.svg)
+
+[![Activity Graph](./assets/activity-graph.svg)](https://github.com/kjd-dktech)
 
 </div>
 
