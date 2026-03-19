@@ -4,12 +4,18 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "0 3 * * *" # tous les jours 03:00 UTC
+  push:
+    branches: [main]
+    paths:
+      - "README.md"
+      - ".github/workflows/profile-stats.yml"
 
 permissions:
   contents: write
 
 jobs:
   build:
+    if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
