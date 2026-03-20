@@ -15,7 +15,7 @@
 ## `$ whoami`
 
 **Kodjo Jean DEGBEVI** — Data Scientist, Analyst & AI Engineer.  
-I build ML systems end-to-end: raw data → pipeline → model → production API.
+I build ML systems end-to-end: raw data → pipeline → model → production.
 
 ```python
 focus = [
