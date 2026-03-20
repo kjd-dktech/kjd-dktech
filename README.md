@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kodjo-jean-degbevi-ba5170369)
 [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97_HuggingFace-kjd--dktech-FFD21E?style=flat)](https://huggingface.co/kjd-dktech)
-[![Website](https://img.shields.io/badge/mayal.tech-000000?style=flat&logo=vercel&logoColor=white)](https://mayal.tech)
+[![Website](https://img.shields.io/badge/mayal.tech-000000?style=flat&logo=nextdotjs&logoColor=white)](https://mayal.tech)
 [![Email](https://img.shields.io/badge/contact%40mayal.tech-D14836?style=flat&logo=gmail&logoColor=white)](mailto:contact@mayal.tech)
 [![Profile Views](https://komarev.com/ghpvc/?username=kjd-dktech&style=flat&color=58a6ff&label=views)](https://github.com/kjd-dktech)
 
@@ -152,9 +152,9 @@ Design and training of a **CNN for handwritten digit recognition** (MNIST). Full
 ![Streak](https://streak-stats.demolab.com/?user=kjd-dktech&theme=github-dark-blue&hide_border=true)
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kjd-dktech&theme=github-compact&hide_border=true&area=true)](https://github.com/kjd-dktech)-->
 
-![GitHub Stats](./assets/github-stats.svg)
+![GitHub Stats](https://github-readme-stats-omega-ashen-84.vercel.app/api?username=kjd-dktech&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
 
-![Top Languages](./assets/top-langs.svg)
+![Top Languages](https://github-readme-stats-omega-ashen-84.vercel.app/api/top-langs/?username=kjd-dktech&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
 
 ![Streak](./assets/streak.svg)
 
@@ -168,7 +168,7 @@ Design and training of a **CNN for handwritten digit recognition** (MNIST). Full
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kodjo_Jean_DEGBEVI-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kodjo-jean-degbevi-ba5170369)
 [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97_HuggingFace-kjd--dktech-FFD21E?style=flat)](https://huggingface.co/kjd-dktech)
-[![Website](https://img.shields.io/badge/mayal.tech-000000?style=flat&logo=vercel&logoColor=white)](https://mayal.tech)
+[![Website](https://img.shields.io/badge/mayal.tech-000000?style=flat&logo=nextdotjs&logoColor=white)](https://mayal.tech)
 [![Email](https://img.shields.io/badge/contact%40mayal.tech-D14836?style=flat&logo=gmail&logoColor=white)](mailto:contact@mayal.tech)
 
 </div>
