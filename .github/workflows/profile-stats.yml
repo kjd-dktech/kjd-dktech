@@ -19,39 +19,30 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate images (via github-readme-stats with token)
+      - name: Generate images
         env:
           GH_STATS_TOKEN: ${{ secrets.GH_STATS_TOKEN }}
         run: |
           mkdir -p assets
 
-          curl -L \
-            -H "Authorization: Bearer ${GH_STATS_TOKEN}" \
-            -o assets/github-stats.svg \
-            "https://github-readme-stats.vercel.app/api?username=kjd-dktech&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
+          #curl -L \
+          #  -H "Authorization: Bearer ${GH_STATS_TOKEN}" \
+          #  -o assets/github-stats.svg \
+          #  "https://github-readme-stats.vercel.app/api?username=kjd-dktech&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
 
-          curl -L \
-            -H "Authorization: Bearer ${GH_STATS_TOKEN}" \
-            -o assets/top-langs.svg \
-            "https://github-readme-stats.vercel.app/api/top-langs/?username=kjd-dktech&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+          #curl -L \
+          #  -H "Authorization: Bearer ${GH_STATS_TOKEN}" \
+          #  -o assets/top-langs.svg \
+          #  "https://github-readme-stats.vercel.app/api/top-langs/?username=kjd-dktech&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
 
-          # Ces 2 là sont souvent public-only selon le provider,
-          # mais on tente quand même via rendu d'image statique.
           curl -L -o assets/streak.svg \
             "https://streak-stats.demolab.com/?user=kjd-dktech&theme=github-dark-blue&hide_border=true"
 
           curl -L -o assets/activity-graph.svg \
             "https://github-readme-activity-graph.vercel.app/graph?username=kjd-dktech&theme=github-compact&hide_border=true&area=true"
 
-      - name: Debug assets
-        run: |
-          ls -la assets
-          wc -c assets/*.svg || true
-          head -n 3 assets/github-stats.svg || true
-        
       - name: Commit changes
         run: |
-          git status --porcelain
           git add -A assets
           if git diff --cached --quiet; then
             echo "No changes to commit."
