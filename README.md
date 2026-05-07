@@ -2,10 +2,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Data+Scientist+%26+Analyst;AI+Engineer;NLP+%7C+Remote+Sensing+%7C+MLOps;Building+ML+systems+end-to-end" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kodjo-jean-degbevi-ba5170369)
-[![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97_HuggingFace-kjd--dktech-FFD21E?style=flat)](https://huggingface.co/kjd-dktech)
-[![Website](https://img.shields.io/badge/mayal.tech-000000?style=flat&logo=nextdotjs&logoColor=white)](https://mayal.tech)
-[![Email](https://img.shields.io/badge/contact%40mayal.tech-D14836?style=flat&logo=gmail&logoColor=white)](mailto:contact@mayal.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kodjo-jean-degbevi-ba5170369?utm_source=github.com)
+[![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97_HuggingFace-kjd--dktech-FFD21E?style=flat)](https://huggingface.co/kjd-dktech?utm_source=github.com)
+[![Docker Hub](https://img.shields.io/badge/DockerHub-kjddktech-2496ED?style=flat&logo=docker&logoColor=white)](https://hub.docker.com/u/kjddktech?utm_source=github.com)
+[![Website](https://img.shields.io/badge/mayal.tech-000000?style=flat&logo=nextdotjs&logoColor=white)](https://mayal.tech?utm_source=github.com)
+[![Email](https://img.shields.io/badge/kodjojeandegbevi%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kodjojeandegbevi+fromgithub@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=kjd-dktech&style=flat&color=58a6ff&label=views)](https://github.com/kjd-dktech)
 
 </div>
@@ -90,37 +91,41 @@ Fine-tuning of **NLLB-200-distilled-600M** (Meta AI) for bidirectional Ewé ↔ 
 </td>
 <td width="50%" valign="top">
 
-### [CreditRiskScoring](https://github.com/kjd-dktech/CreditRiskScoring)
+### [Superstore Sales Analytics](https://github.com/kjd-dktech/superstore_sales_analytics)
 
-Full-stack ML application for **credit risk prediction** in financial inclusion. Scikit-learn model served via FastAPI; SHAP for interpretability; Next.js dashboard; one-command Docker Compose deployment.
+ML-powered sales analytics platform for **profit prediction** on Superstore data, with a production-ready **FastAPI backend** and an interactive **Streamlit dashboard**.
 
-`scikit-learn` `SHAP` `FastAPI` `Next.js` `Tailwind CSS` `Docker`
+`Python` `FastAPI` `Streamlit` `scikit-learn` `Pandas` `Docker`
 
-[![Repo](https://img.shields.io/badge/GitHub-CreditRiskScoring-181717?style=flat&logo=github&logoColor=white)](https://github.com/kjd-dktech/CreditRiskScoring)
+[![Repo](https://img.shields.io/badge/GitHub-superstore__sales__analytics-181717?style=flat&logo=github&logoColor=white)](https://github.com/kjd-dktech/superstore_sales_analytics)
+[![Streamlit Demo](https://img.shields.io/badge/Streamlit-Demo-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://mayal-superstore.streamlit.app/)
+[![HF Model](https://img.shields.io/badge/%F0%9F%A4%97_Model-superstore--profit--predictor-FFD21E?style=flat)](https://huggingface.co/kjd-dktech/superstore-profit-predictor)
+[![FastAPI](https://img.shields.io/badge/FastAPI-superstore--api-009688?style=flat&logo=fastapi&logoColor=white)](https://huggingface.co/spaces/kjd-dktech/superstore-api)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### [ForestWatch Togo](https://github.com/kjd-dktech/land-cover-ml-sentinel2)
+### [ForestWatch Togo](https://github.com/kjd-dktech/forestwatch-tg)
 
 End-to-end AI system for **land cover classification & deforestation monitoring** in Togo — from data engineering (Sentinel-2 + Google Earth Engine) to model deployment.
 
 `Python` `Sentinel-2` `Google Earth Engine` `scikit-learn` `Jupyter`
 
-[![Repo](https://img.shields.io/badge/GitHub-land--cover--ml--sentinel2-181717?style=flat&logo=github&logoColor=white)](https://github.com/kjd-dktech/land-cover-ml-sentinel2)
+[![Repo](https://img.shields.io/badge/GitHub-forestwatch--tg-181717?style=flat&logo=github&logoColor=white)](https://github.com/kjd-dktech/forestwatch-tg)
+[![HF Model](https://img.shields.io/badge/%F0%9F%A4%97_Model-forestwatch--tg-FFD21E?style=flat)](https://huggingface.co/kjd-dktech/forestwatch-tg)
 
 </td>
 <td width="50%" valign="top">
 
-### [OCR CNN MNIST](https://github.com/kjd-dktech/ocr-cnn-mnist)
+### [Telco Churn Analysis](https://github.com/kjd-dktech/telco_churn_analysis)
 
-Design and training of a **CNN for handwritten digit recognition** (MNIST). Full pipeline: preprocessing → architecture → training metrics → saved Keras model artefacts.
+Data strategy and predictive analytics project for **customer churn reduction** in Telco/SaaS: retention analysis, cohort survival insights, and MRR impact optimization.
 
-`TensorFlow` `Keras` `NumPy` `OpenCV` `scikit-learn` `Jupyter`
+`Python` `Pandas` `scikit-learn` `Analytics` `Dashboard`
 
-[![Repo](https://img.shields.io/badge/GitHub-ocr--cnn--mnist-181717?style=flat&logo=github&logoColor=white)](https://github.com/kjd-dktech/ocr-cnn-mnist)
+[![Repo](https://img.shields.io/badge/GitHub-telco__churn__analysis-181717?style=flat&logo=github&logoColor=white)](https://github.com/kjd-dktech/telco_churn_analysis)
 
 </td>
 </tr>
@@ -132,14 +137,19 @@ Design and training of a **CNN for handwritten digit recognition** (MNIST). Full
 
 | Repo | What it is |
 |------|------------|
+| [portfolio](https://github.com/kjd-dktech/portfolio) | Personal portfolio website |
+| [bank_marketing_analysis](https://github.com/kjd-dktech/bank_marketing_analysis) | Conversion funnel analysis and interactive dashboard for bank telemarketing campaigns |
 | [perceptron-lab](https://github.com/kjd-dktech/perceptron-lab) | Perceptron & 2-layer MLP **from scratch** with NumPy — weights, activations, backprop, gradient descent |
 | [ml-data-analysis-pipeline](https://github.com/kjd-dktech/ml-data-analysis-pipeline) | EDA + ML modelling on Iris / Penguins / Titanic — KNN, Decision Tree, SVM |
 | [framework-ml](https://github.com/kjd-dktech/framework-ml) | Academic ML workflow: data preprocessing, CatBoost / scikit-learn modelling, evaluation |
 | [tensorflow-pytorch-spacy-nltk-transformers](https://github.com/kjd-dktech/tensorflow-pytorch-spacy-nltk-transformers) | Notebooks covering TensorFlow, PyTorch, spaCy, NLTK for NLP & Computer Vision |
+| [CreditRiskScoring](https://github.com/kjd-dktech/CreditRiskScoring) | Full-stack ML app for credit default risk prediction with explainability |
+| [ocr-cnn-mnist](https://github.com/kjd-dktech/ocr-cnn-mnist) | CNN-based handwritten digit recognition (MNIST) with TensorFlow/Keras |
 | [MathNode](https://github.com/kjd-dktech/MathNode) | Math chatbot — LLM + SymPy for symbolic reasoning & interactive quiz generation *(in progress)* |
 | [quicknotes](https://github.com/kjd-dktech/quicknotes) | Lightweight note-taking app built with Next.js |
 | [pythonInstaller_pyenv](https://github.com/kjd-dktech/pythonInstaller_pyenv) | Shell script to install & manage multiple Python versions via pyenv on Linux |
 | [streamer](https://github.com/kjd-dktech/streamer) | Screen-casting from Fedora to TV / browser over a local network (VLC / OBS) |
+| [land-cover-ml-sentinel2](https://github.com/kjd-dktech/land-cover-ml-sentinel2) | Legacy repository (migrated to `forestwatch-tg`) |
 
 ---
 
@@ -166,9 +176,10 @@ Design and training of a **CNN for handwritten digit recognition** (MNIST). Full
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kodjo_Jean_DEGBEVI-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kodjo-jean-degbevi-ba5170369)
-[![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97_HuggingFace-kjd--dktech-FFD21E?style=flat)](https://huggingface.co/kjd-dktech)
-[![Website](https://img.shields.io/badge/mayal.tech-000000?style=flat&logo=nextdotjs&logoColor=white)](https://mayal.tech)
-[![Email](https://img.shields.io/badge/contact%40mayal.tech-D14836?style=flat&logo=gmail&logoColor=white)](mailto:contact@mayal.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kodjo-jean-degbevi-ba5170369?utm_source=github.com)
+[![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97_HuggingFace-kjd--dktech-FFD21E?style=flat)](https://huggingface.co/kjd-dktech?utm_source=github.com)
+[![Docker Hub](https://img.shields.io/badge/DockerHub-kjddktech-2496ED?style=flat&logo=docker&logoColor=white)](https://hub.docker.com/u/kjddktech?utm_source=github.com)
+[![Website](https://img.shields.io/badge/mayal.tech-000000?style=flat&logo=nextdotjs&logoColor=white)](https://mayal.tech?utm_source=github.com)
+[![Email](https://img.shields.io/badge/kodjojeandegbevi%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kodjojeandegbevi+fromgithub@gmail.com)
 
 </div>
