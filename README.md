@@ -2,10 +2,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Data+Scientist+%26+Analyst;AI+Engineer;NLP+%7C+Remote+Sensing+%7C+MLOps;Building+ML+systems+end-to-end" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kodjo-jean-degbevi-ba5170369)
-[![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97_HuggingFace-kjd--dktech-FFD21E?style=flat)](https://huggingface.co/kjd-dktech)
-[![Website](https://img.shields.io/badge/mayal.tech-000000?style=flat&logo=nextdotjs&logoColor=white)](https://mayal.tech)
-[![Email](https://img.shields.io/badge/contact%40mayal.tech-D14836?style=flat&logo=gmail&logoColor=white)](mailto:contact@mayal.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kodjo-jean-degbevi-ba5170369?utm_source=github.com)
+[![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97_HuggingFace-kjd--dktech-FFD21E?style=flat)](https://huggingface.co/kjd-dktech?utm_source=github.com)
+[![Docker Hub](https://img.shields.io/badge/DockerHub-kjddktech-2496ED?style=flat&logo=docker&logoColor=white)](https://hub.docker.com/u/kjddktech?utm_source=github.com)
+[![Website](https://img.shields.io/badge/mayal.tech-000000?style=flat&logo=nextdotjs&logoColor=white)](https://mayal.tech?utm_source=github.com)
+[![Email](https://img.shields.io/badge/kodjojeandegbevi%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kodjojeandegbevi+fromgithub@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=kjd-dktech&style=flat&color=58a6ff&label=views)](https://github.com/kjd-dktech)
 
 </div>
@@ -97,6 +98,9 @@ ML-powered sales analytics platform for **profit prediction** on Superstore data
 `Python` `FastAPI` `Streamlit` `scikit-learn` `Pandas` `Docker`
 
 [![Repo](https://img.shields.io/badge/GitHub-superstore__sales__analytics-181717?style=flat&logo=github&logoColor=white)](https://github.com/kjd-dktech/superstore_sales_analytics)
+[![Streamlit Demo](https://img.shields.io/badge/Streamlit-Demo-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://mayal-superstore.streamlit.app/)
+[![HF Model](https://img.shields.io/badge/%F0%9F%A4%97_Model-superstore--profit--predictor-FFD21E?style=flat)](https://huggingface.co/kjd-dktech/superstore-profit-predictor)
+[![FastAPI](https://img.shields.io/badge/FastAPI-superstore--api-009688?style=flat&logo=fastapi&logoColor=white)](https://huggingface.co/spaces/kjd-dktech/superstore-api)
 
 </td>
 </tr>
@@ -172,9 +176,10 @@ Data strategy and predictive analytics project for **customer churn reduction** 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kodjo_Jean_DEGBEVI-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kodjo-jean-degbevi-ba5170369)
-[![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97_HuggingFace-kjd--dktech-FFD21E?style=flat)](https://huggingface.co/kjd-dktech)
-[![Website](https://img.shields.io/badge/mayal.tech-000000?style=flat&logo=nextdotjs&logoColor=white)](https://mayal.tech)
-[![Email](https://img.shields.io/badge/contact%40mayal.tech-D14836?style=flat&logo=gmail&logoColor=white)](mailto:contact@mayal.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kodjo-jean-degbevi-ba5170369?utm_source=github.com)
+[![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97_HuggingFace-kjd--dktech-FFD21E?style=flat)](https://huggingface.co/kjd-dktech?utm_source=github.com)
+[![Docker Hub](https://img.shields.io/badge/DockerHub-kjddktech-2496ED?style=flat&logo=docker&logoColor=white)](https://hub.docker.com/u/kjddktech?utm_source=github.com)
+[![Website](https://img.shields.io/badge/mayal.tech-000000?style=flat&logo=nextdotjs&logoColor=white)](https://mayal.tech?utm_source=github.com)
+[![Email](https://img.shields.io/badge/kodjojeandegbevi%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kodjojeandegbevi+fromgithub@gmail.com)
 
 </div>
