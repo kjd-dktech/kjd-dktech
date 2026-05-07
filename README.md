@@ -122,7 +122,6 @@ Data strategy and predictive analytics project for **customer churn reduction** 
 `Python` `Pandas` `scikit-learn` `Analytics` `Dashboard`
 
 [![Repo](https://img.shields.io/badge/GitHub-telco__churn__analysis-181717?style=flat&logo=github&logoColor=white)](https://github.com/kjd-dktech/telco_churn_analysis)
-[![Repo](https://img.shields.io/badge/GitHub-bank__marketing__analysis-181717?style=flat&logo=github&logoColor=white)](https://github.com/kjd-dktech/bank_marketing_analysis)
 
 </td>
 </tr>
