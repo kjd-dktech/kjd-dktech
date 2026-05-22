@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Data+Scientist+%26+Analyst;AI+Engineer;NLP+%7C+Remote+Sensing+%7C+MLOps;Building+ML+systems+end-to-end" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Data+Scientist;AI+%26+ML+Engineer;Building+ML+systems;NLP+%7C+Computer+Vision+%7C+Remote+Sensing+%7C+MLOps" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kodjo-jean-degbevi-ba5170369?utm_source=github.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kjd--dktech-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kjd-dktech?utm_source=github.com)
 [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97_HuggingFace-kjd--dktech-FFD21E?style=flat)](https://huggingface.co/kjd-dktech?utm_source=github.com)
 [![Docker Hub](https://img.shields.io/badge/DockerHub-kjddktech-2496ED?style=flat&logo=docker&logoColor=white)](https://hub.docker.com/u/kjddktech?utm_source=github.com)
 [![Website](https://img.shields.io/badge/mayal.tech-000000?style=flat&logo=nextdotjs&logoColor=white)](https://mayal.tech?utm_source=github.com)
@@ -11,11 +11,17 @@
 
 </div>
 
+<div align="center">
+
+<b> Janga la Enzi Mpya </b>
+
+</div>
+
 ---
 
 ## `$ whoami`
 
-**Kodjo Jean DEGBEVI** — Data Scientist, Analyst & AI Engineer.  
+**Kodjo Jean DEGBEVI** — Data Scientist & AI Engineer.  
 I build ML systems end-to-end: raw data → pipeline → model → production.
 
 ```python
@@ -176,7 +182,7 @@ Data strategy and predictive analytics project for **customer churn reduction** 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kodjo-jean-degbevi-ba5170369?utm_source=github.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kjd--dktech-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kjd-dktech?utm_source=github.com)
 [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97_HuggingFace-kjd--dktech-FFD21E?style=flat)](https://huggingface.co/kjd-dktech?utm_source=github.com)
 [![Docker Hub](https://img.shields.io/badge/DockerHub-kjddktech-2496ED?style=flat&logo=docker&logoColor=white)](https://hub.docker.com/u/kjddktech?utm_source=github.com)
 [![Website](https://img.shields.io/badge/mayal.tech-000000?style=flat&logo=nextdotjs&logoColor=white)](https://mayal.tech?utm_source=github.com)
