@@ -3,7 +3,7 @@ name: Update profile stats images
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 3 * * *" # tous les jours 03:00 UTC
+    - cron: "1 0 * * *" # tous les jours 00:01 UTC
   push:
     branches: [main]
     paths:
