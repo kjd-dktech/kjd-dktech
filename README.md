@@ -19,11 +19,14 @@
 
 ---
 
-## `$ whoami`
+## `kjd@github:~$ whoami`
 
 **Kodjo Jean DEGBEVI** — Data Scientist & AI Engineer.  
 I build ML systems end-to-end: raw data → pipeline → model → production.
 
+---
+
+<!--
 ```python
 focus = [
     "NLP for low-resource African languages (Ewé)",
@@ -73,8 +76,9 @@ focus = [
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
+-->
 
-## 🚀 Featured Projects
+## `kjd@github:~$ projects --featured`
 
 <table>
 <tr>
@@ -139,7 +143,7 @@ Data strategy and predictive analytics project for **customer churn reduction** 
 
 ---
 
-## 🧪 More Projects
+## `kjd@github:~$ projects --more`
 
 | Repo | What it is |
 |------|------------|
@@ -159,7 +163,7 @@ Data strategy and predictive analytics project for **customer churn reduction** 
 
 ---
 
-## 📊 GitHub Stats
+## `kjd@github:~$ github --stats`
 
 <div align="center">
 <!--
