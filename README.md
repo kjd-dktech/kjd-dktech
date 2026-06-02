@@ -22,7 +22,7 @@
 ## `kjd@github:~$ whoami`
 
 **Kodjo Jean DEGBEVI** — Data Scientist & AI Engineer.  
-I build ML systems end-to-end: raw data → pipeline → model → production.
+I build ML systems.
 
 ---
 
@@ -101,6 +101,22 @@ Fine-tuning of **NLLB-200-distilled-600M** (Meta AI) for bidirectional Ewé ↔ 
 </td>
 <td width="50%" valign="top">
 
+### [ForestWatch Togo](https://github.com/kjd-dktech/forestwatch-tg)
+
+End-to-end AI system for **land cover classification & deforestation monitoring** in Togo — from data engineering (Sentinel-2 + Google Earth Engine) to model deployment.
+
+`Python` `Sentinel-2` `Google Earth Engine` `scikit-learn` `Jupyter`
+
+[![Repo](https://img.shields.io/badge/GitHub-forestwatch--tg-181717?style=flat&logo=github&logoColor=white)](https://github.com/kjd-dktech/forestwatch-tg)
+[![HF Model](https://img.shields.io/badge/%F0%9F%A4%97_Model-forestwatch--tg-FFD21E?style=flat)](https://huggingface.co/kjd-dktech/forestwatch-tg)
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
 ### [Superstore Sales Analytics](https://github.com/kjd-dktech/superstore_sales_analytics)
 
 ML-powered sales analytics platform for **profit prediction** on Superstore data, with a production-ready **FastAPI backend** and an interactive **Streamlit dashboard**.
@@ -111,20 +127,6 @@ ML-powered sales analytics platform for **profit prediction** on Superstore data
 [![Streamlit Demo](https://img.shields.io/badge/Streamlit-Demo-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://mayal-superstore.streamlit.app/)
 [![HF Model](https://img.shields.io/badge/%F0%9F%A4%97_Model-superstore--profit--predictor-FFD21E?style=flat)](https://huggingface.co/kjd-dktech/superstore-profit-predictor)
 [![FastAPI](https://img.shields.io/badge/FastAPI-superstore--api-009688?style=flat&logo=fastapi&logoColor=white)](https://huggingface.co/spaces/kjd-dktech/superstore-api)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [ForestWatch Togo](https://github.com/kjd-dktech/forestwatch-tg)
-
-End-to-end AI system for **land cover classification & deforestation monitoring** in Togo — from data engineering (Sentinel-2 + Google Earth Engine) to model deployment.
-
-`Python` `Sentinel-2` `Google Earth Engine` `scikit-learn` `Jupyter`
-
-[![Repo](https://img.shields.io/badge/GitHub-forestwatch--tg-181717?style=flat&logo=github&logoColor=white)](https://github.com/kjd-dktech/forestwatch-tg)
-[![HF Model](https://img.shields.io/badge/%F0%9F%A4%97_Model-forestwatch--tg-FFD21E?style=flat)](https://huggingface.co/kjd-dktech/forestwatch-tg)
 
 </td>
 <td width="50%" valign="top">
@@ -145,6 +147,8 @@ Data strategy and predictive analytics project for **customer churn reduction** 
 
 ## `kjd@github:~$ projects --more`
 
+[*Click here to see results*](https://github.com/kjd-dktech?tab=repositories)
+<!--
 | Repo | What it is |
 |------|------------|
 | [portfolio](https://github.com/kjd-dktech/portfolio) | Personal portfolio website |
@@ -160,6 +164,7 @@ Data strategy and predictive analytics project for **customer churn reduction** 
 | [pythonInstaller_pyenv](https://github.com/kjd-dktech/pythonInstaller_pyenv) | Shell script to install & manage multiple Python versions via pyenv on Linux |
 | [streamer](https://github.com/kjd-dktech/streamer) | Screen-casting from Fedora to TV / browser over a local network (VLC / OBS) |
 | [land-cover-ml-sentinel2](https://github.com/kjd-dktech/land-cover-ml-sentinel2) | Legacy repository (migrated to `forestwatch-tg`) |
+-->
 
 ---
 
@@ -176,9 +181,11 @@ Data strategy and predictive analytics project for **customer churn reduction** 
 
 ![Top Languages](https://github-readme-stats-omega-ashen-84.vercel.app/api/top-langs/?username=kjd-dktech&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
 
-![Streak](./assets/streak.svg)
+<!--!
+[Streak](./assets/streak.svg)
 
 [![Activity Graph](./assets/activity-graph.svg)](https://github.com/kjd-dktech)
+-->
 
 </div>
 
