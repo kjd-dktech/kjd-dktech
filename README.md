@@ -2,6 +2,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Data+Scientist;AI+%26+ML+Engineer;Building+ML+systems;NLP+%7C+Computer+Vision+%7C+Remote+Sensing+%7C+MLOps" alt="Typing SVG" />
 
+*La data science, c'est de l'art*
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kjd--dktech-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kjd-dktech?utm_source=github.com)
 [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97_HuggingFace-kjd--dktech-FFD21E?style=flat)](https://huggingface.co/kjd-dktech?utm_source=github.com)
 [![Docker Hub](https://img.shields.io/badge/DockerHub-kjddktech-2496ED?style=flat&logo=docker&logoColor=white)](https://hub.docker.com/u/kjddktech?utm_source=github.com)
@@ -114,6 +116,25 @@ End-to-end AI system for **land cover classification & deforestation monitoring*
 
 </tr>
 <tr>
+<td width="50%" valign="top">
+
+
+### [AgbleDɔ̀](https://github.com/kjd-dktech/agbledo)
+
+Automated detection system for crop bioaggressors (ACMV and Spodoptera frugiperda) in maize and cassava crops.
+
+`YOLO` `PyTorch` `Grad-CAM` `MLflow`
+
+| Jeu de données | Top-1 Accuracy | Top-5 Accuracy |
+|:---:|:---:|:---:|
+| **Entraînement** | **94.30 %** | **100.00 %** |
+| **Test formel** | **92.64 %** | **99.95 %** |
+
+
+[![Repo](https://img.shields.io/badge/GitHub-agbledɔ-181717?style=flat&logo=github&logoColor=white)](https://github.com/kjd-dktech/agbledo)
+[![HF Model](https://img.shields.io/badge/%F0%9F%A4%97_Model-agbledo01-FFD21E?style=flat)](https://huggingface.co/kjd-dktech/agbledo01)
+
+</td>
 
 <td width="50%" valign="top">
 
@@ -127,17 +148,6 @@ ML-powered sales analytics platform for **profit prediction** on Superstore data
 [![Streamlit Demo](https://img.shields.io/badge/Streamlit-Demo-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://mayal-superstore.streamlit.app/)
 [![HF Model](https://img.shields.io/badge/%F0%9F%A4%97_Model-superstore--profit--predictor-FFD21E?style=flat)](https://huggingface.co/kjd-dktech/superstore-profit-predictor)
 [![FastAPI](https://img.shields.io/badge/FastAPI-superstore--api-009688?style=flat&logo=fastapi&logoColor=white)](https://huggingface.co/spaces/kjd-dktech/superstore-api)
-
-</td>
-<td width="50%" valign="top">
-
-### [Telco Churn Analysis](https://github.com/kjd-dktech/telco_churn_analysis)
-
-Data strategy and predictive analytics project for **customer churn reduction** in Telco/SaaS: retention analysis, cohort survival insights, and MRR impact optimization.
-
-`Python` `Pandas` `scikit-learn` `Analytics` `Dashboard`
-
-[![Repo](https://img.shields.io/badge/GitHub-telco__churn__analysis-181717?style=flat&logo=github&logoColor=white)](https://github.com/kjd-dktech/telco_churn_analysis)
 
 </td>
 </tr>
